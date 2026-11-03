@@ -13,6 +13,6 @@ We are building practical tools for content labeling: invisible watermarking, C2
 - [Contribute](https://github.com/ariadne-mark/ariadne-mark/blob/main/CONTRIBUTING.md)
 - [Report a problem](https://github.com/ariadne-mark/ariadne-mark/issues)
 
-**Status: pre-alpha scaffold.** The SDK and public verifier are under development; no production release or blanket compliance guarantee is available. Our focus is CPU-first, self-hostable tools for images and video.
+**Status: developer preview 0.2.0a0.** The CPU SDK, CLI and self-hosted verifier now support JPEG/PNG and H.264 MP4. [Get the release](https://github.com/ariadne-mark/ariadne-mark/releases/tag/v0.2.0a0) or follow the repository quick start. Production qualification and product-specific legal applicability remain open; no blanket compliance guarantee is provided.
 
 Follow development in the main repository. If the project is useful to you, give it a star.
